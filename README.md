@@ -7,5 +7,5 @@
 # 2) clone the project on git
 # 3) install v16 nodejs version
 # 4) select folder cd iprogrammer/reactjsapp
-# 5) install npn node module using npm i command through
+# 5) install npm node module using npm i command through
 # 6) run project using npm start command

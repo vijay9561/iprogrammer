@@ -1,7 +1,5 @@
 # Following step use to the run on iprogrammer Test Project  
-#
-#
-#
+
 ###### 1) open the visual code
 ###### 2) clone the project on git
 ###### 3) install v16 nodejs version
